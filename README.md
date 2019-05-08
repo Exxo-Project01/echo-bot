@@ -3,7 +3,7 @@
 Simple garbage collecting line following bot using arduino UNO board. 
 
 ## Overview
-![alt text](./Assests/overview3.jpeg =250x)
+![alt text](./Assests/overview3.jpeg = 100x20)
 
 ![alt text](./Assests/overview1.jpeg)
 
