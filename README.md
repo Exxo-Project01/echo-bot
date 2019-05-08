@@ -3,7 +3,7 @@
 Simple garbage collecting line following bot using arduino UNO board. 
 
 ## Overview
-![alt text](https://github.com/Exxo-Project01/echo-bot/blob/master/Assests/overview3.jpeg)
+![alt text](https://github.com/Exxo-Project01/echo-bot/blob/master/Assests/overview3.jpeg =250x)
 
 ![alt text](https://github.com/Exxo-Project01/echo-bot/blob/master/Assests/overview1.jpeg)
 
