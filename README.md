@@ -13,7 +13,7 @@ Simple garbage collecting line following bot using arduino UNO board.
 
 ![](./Assests/circuit.jpeg)
 
-##Contributers
+## Contributers
 
 <table>
 <tr>
